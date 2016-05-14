@@ -1,4 +1,8 @@
-# electron-react-boilerplate
+# push-notification-demo
+
+![demo](./assets/images/push-notification-demo.gif)
+
+## thanks to electron-react-boilerplate
 
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
